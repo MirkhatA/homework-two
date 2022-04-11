@@ -11,12 +11,9 @@ public class TwelfthTask {
         Scanner sc = new Scanner(System.in);
         int index = sc.nextInt();
 
-        System.out.print("Write a substring: ");
-        String input = sc.next();
-
         StringBuilder stringBuilder = new StringBuilder();
         stringBuilder.append(str);
-        stringBuilder.insert(index, input);
+        stringBuilder.insert(index, " ");
 
 
         System.out.println("Modified string: " + stringBuilder);
