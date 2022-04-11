@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-public class tenthTask {
+public class TenthTask {
     public static void main(String[] args) {
         String str = "tenth task";
 

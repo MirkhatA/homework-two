@@ -3,7 +3,7 @@ package com.mirkek;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class thirdTask {
+public class ThirdTask {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String str = sc.next();

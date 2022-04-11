@@ -2,7 +2,7 @@ package com.mirkek;
 
 import java.util.Arrays;
 
-public class ninthTask {
+public class NinthTask {
     public static void main(String[] args) {
         String str = "ninth task";
         char[] chars = str.toCharArray();

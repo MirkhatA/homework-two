@@ -1,9 +1,8 @@
 package com.mirkek;
 
-import java.util.HashMap;
 import java.util.Scanner;
 
-public class fifthTask {
+public class FifthTask {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String str = sc.next();
